@@ -31,14 +31,14 @@
 
 
 <div align="center"> 
-  <a href="https://github.com/sergio001g"> 
+  <a href="https://github.com/andreeesz17"> 
     <img src="https://github-contribution-stats.vercel.app/api/?username=andreeesz&theme=radical&layout=compact" alt="Contributions Chart"/> 
   </a> 
 </div> 
 
 
 <div align="center"> 
-  <a href="https://github.com/andreeesz"> 
+  <a href="https://github.com/andreeesz17"> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreeesz&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=A16AE8&point=FFFFFF&area=true&area_color=A16AE8" alt="Activity Chart"/> 
   </a> 
 </div>
