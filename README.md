@@ -28,13 +28,12 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 ## Statistics
 
+![readme stats](https://github-readme-stats-salesp07.vercel.app/api?username=andreeesz17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) 
  
 <div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andreeesz17&show_icons=true&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&icon_color=C586C0&border_color=2D2D2D" alt="GitHub Stats" />
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreeesz17&layout=compact&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&border_color=2D2D2D" alt="Top Languages" />
 
-  
 </div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreeesz17&theme=react-dark&bg_color=1E1E1E&color=4EC9B0&line=C586C0&point=CE9178&area=true&area_color=DCDCAA)](https://github.com/andreeesz17)
