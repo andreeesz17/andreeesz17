@@ -31,9 +31,24 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
  
 <div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andreeesz17&show_icons=true&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&icon_color=C586C0&border_color=2D2D2D" alt="GitHub Stats" />
+  
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreeesz17&layout=compact&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&border_color=2D2D2D" alt="Top Languages" />
+
+  
 </div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreeesz17&theme=react-dark&bg_color=1E1E1E&color=4EC9B0&line=C586C0&point=CE9178&area=true&area_color=DCDCAA)](https://github.com/andreeesz17)
 
+
+
+## Learning Journey
+
+[![JavaScript Course](https://img.shields.io/badge/JavaScript_Course-%23ffc721.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/andreeesz17/curso-javascript)
+[![CSS Course](https://img.shields.io/badge/CSS_Course-%230078ff.svg?style=for-the-badge&logo=css&logoColor=white)](https://github.com/andreeesz17/curso-css)
+
+
 ---
+
+<img src="https://komarev.com/ghpvc/?username=andreeesz17&style=for-the-badge&color=07d6ff" alt="Profile Views" />
+
+</div>
