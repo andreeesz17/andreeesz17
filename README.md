@@ -1,5 +1,12 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Andrés Zambrano</h1>
 <h3 align="center">I am a student from Ecuador full stack software developer</h3>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&weight=700&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Learning+Every+Day+To+Code;Passionate+About+Tech+And+Learning)](https://git.io/typing-svg)
+
+
+</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=790b7611javcyo13a85kevgbl82icmd4k7vda9afk9uzc0hs&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="450"/>
