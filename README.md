@@ -14,7 +14,7 @@
 
 
 - 🏡 I live in **Quito-Ecuador**
-- 🧬 Currently learning: **html**, **Java** and **python**
+- 🧬 Currently learning: **html**, **css**, **JavaScript** and **python**
 - ✨ Open to collaborate on challenging projects
 - 📫 How to reach me **andryzambrano1709@gmail.com**
 
