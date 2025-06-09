@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
       🎮<br/>
       <strong>Golpea al topo</strong><br/>
       <a href="https://golpea-topos-firstgameandresz.netlify.app/">
-        <img src="https://img.shields.io/badge/Juego-Netlify-%234caf50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Juego Netlify"/>
+        <img src="https://img.shields.io/badge/Golpea-Game-%234caf50?style=for-the-badge&logo=gamepad&logoColor=red" alt="Juego Netlify"/>
       </a><br/>
       ¡Haz clic para jugar!
     </td>
