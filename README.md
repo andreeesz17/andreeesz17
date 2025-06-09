@@ -54,3 +54,16 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 <img src="https://komarev.com/ghpvc/?username=andreeesz17&style=for-the-badge&color=07d6ff" alt="Profile Views" />
 
 </div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      🎮<br/>
+      <strong>Juego en Netlify</strong><br/>
+      <a href="https://golpea-topos-firstgameandresz.netlify.app/">
+        <img src="https://img.shields.io/badge/Juego-Netlify-%234caf50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Juego Netlify"/>
+      </a><br/>
+      ¡Haz clic para jugar!
+    </td>
+  </tr>
+</table>
+
