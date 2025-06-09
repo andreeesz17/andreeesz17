@@ -30,6 +30,23 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img 
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"></a> </p>
+
+## Projects
+
+
+  <table align="center" width="100%">
+  <tr>
+    <td align="center">
+      🎮<br/>
+      <strong>Golpea al topo</strong><br/>
+      <a href="https://golpea-topos-firstgameandresz.netlify.app/">
+        <img src="https://img.shields.io/badge/Juego-Netlify-%234caf50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Juego Netlify"/>
+      </a><br/>
+      ¡Haz clic para jugar!
+    </td>
+  </tr>
+</table>
+
  
 
 
@@ -54,16 +71,4 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 <img src="https://komarev.com/ghpvc/?username=andreeesz17&style=for-the-badge&color=07d6ff" alt="Profile Views" />
 
 </div>
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      🎮<br/>
-      <strong>Juego en Netlify</strong><br/>
-      <a href="https://golpea-topos-firstgameandresz.netlify.app/">
-        <img src="https://img.shields.io/badge/Juego-Netlify-%234caf50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Juego Netlify"/>
-      </a><br/>
-      ¡Haz clic para jugar!
-    </td>
-  </tr>
-</table>
 
